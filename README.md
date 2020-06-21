@@ -1,6 +1,5 @@
-# FSD_3-4step_js-practic 
-Slide Panel
-javascript practic
+# slidePanel 
+Slide Panel - javascript practice
 Russian translate
 Слайд-панель, она двигаеться вверх/вниз по клику на ссылку
 English translate
