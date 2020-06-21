@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-    <script type="text/javascript" src="jquery.js"></script>
+    <script type="text/javascript" src="./node_modules/jquery/dist/jquery.js"></script>
     <script type="text/javascript">
         $(document).ready(function () {
             $(".btn-slide").click(function () {
@@ -49,8 +49,11 @@
     </style>
 </head>
 <body>
-    <div id="panel">
-
+    <div id="panel" style="display: block;">
+        <!-- you can put content here -->
     </div>
+    <p class="slide">
+        <a href="#" class="btn-slide active">Slide Panel</a>
+    </p>
 </body>
 </html>
