@@ -1,0 +1,25 @@
+{
+  "name": "fsd_3-4step_js-practic",
+  "version": "1.0.0",
+  "description": "my test jquery plagin",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "npm": "^6.14.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jhonah/FSD_3-4step_js-practic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jhonah/FSD_3-4step_js-practic/issues"
+  },
+  "homepage": "https://github.com/Jhonah/FSD_3-4step_js-practic#readme"
+}
